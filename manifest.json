@@ -1,0 +1,11 @@
+{
+  "id": "checklist-mover",
+  "name": "Checklist Mover",
+  "version": "0.1.0",
+  "minAppVersion": "0.12.0",
+  "description": "When a checklist item is checked it moves to the bottom of the list; option to hide completed items.",
+  "author": "IsaiahVan",
+  "authorUrl": "https://github.com/Isaiahvan",
+  "isDesktopOnly": false,
+  "main": "main.js"
+}
