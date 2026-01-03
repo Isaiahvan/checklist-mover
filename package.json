@@ -1,6 +1,6 @@
 {
   "name": "checklist-mover",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "When a todo is checked it moves to the bottom; option to hide completed.",
   "main": "main.js",
   "scripts": {

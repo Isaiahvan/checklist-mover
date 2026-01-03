@@ -34,3 +34,16 @@ This produces `main.js` (bundled) at the repository root which, together with `m
 Notes about publishing
 - The Obsidian community requires a GitHub repository and releases containing the plugin files. See Obsidian's submission docs for exact steps.
 - If you'd like, I can run `npm install` and `npm run build` here (requires network/npm). I can also help create the GitHub repo and draft a release.
+
+Screenshots
+
+![Checklist Mover example](assets/screenshot-1.svg)
+
+Obsidian submission checklist
+
+- [x] `manifest.json` contains correct `id`, `name`, `version` and `minAppVersion`.
+- [x] `main.js` is built and included in a release.
+- [x] `README.md` contains usage and screenshots.
+- [ ] Optional: add demo GIF or additional screenshots to `assets/`.
+
+When you're ready I will: bump the release tag, push changes, and create a GitHub release with the built `main.js` and `manifest.json` for submission.
